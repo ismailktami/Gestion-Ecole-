@@ -1,0 +1,43 @@
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\bin\Debug\Plusieurs forms avec back.exe.config
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\bin\Debug\Plusieurs forms avec back.exe
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\bin\Debug\Plusieurs forms avec back.pdb
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\bin\Debug\MetroFramework.Design.dll
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\bin\Debug\MetroFramework.dll
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\bin\Debug\MySql.Data.dll
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\bin\Debug\MySql.Data.xml
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\obj\Debug\Plusieurs forms avec back.csproj.App.config
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\obj\Debug\Plusieurs forms avec back.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\obj\Debug\Plusieurs_forms_avec_back.AddUser.resources
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\obj\Debug\Plusieurs_forms_avec_back.Formations.resources
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\obj\Debug\Plusieurs_forms_avec_back.frmMain.resources
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\obj\Debug\Plusieurs_forms_avec_back.frmSplashScreen.resources
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\obj\Debug\Plusieurs_forms_avec_back.LoginControlleur.resources
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\obj\Debug\Plusieurs_forms_avec_back.Modules.resources
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\obj\Debug\Plusieurs_forms_avec_back.Properties.Resources.resources
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\obj\Debug\Plusieurs_forms_avec_back.Registration.resources
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\obj\Debug\Plusieurs_forms_avec_back.Students.resources
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\obj\Debug\Plusieurs_forms_avec_back.Teachers.resources
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\obj\Debug\Plusieurs_forms_avec_back.UcCategory.resources
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\obj\Debug\Plusieurs_forms_avec_back.UcDashboard.resources
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\obj\Debug\Plusieurs_forms_avec_back.UcProduct.resources
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\obj\Debug\Plusieurs_forms_avec_back.UcUsers.resources
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\obj\Debug\Plusieurs forms avec back.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\obj\Debug\Plusieurs forms avec back.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\obj\Debug\Plusieurs forms avec back.csproj.CopyComplete
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\obj\Debug\Plusieurs forms avec back.exe
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\obj\Debug\Plusieurs forms avec back.pdb
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\bin\Debug\CsvHelper.dll
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\bin\Debug\System.ValueTuple.dll
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\bin\Debug\CsvHelper.xml
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\bin\Debug\System.ValueTuple.xml
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\obj\Debug\Plusieurs_forms_avec_back.Examens.resources
+C:\Users\PC\source\repos\Plusieurs forms avec back\Plusieurs forms avec back\bin\Debug\itextsharp.dll
